@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+}
+    h1 {
+        font-size: 90px;
+        color: rgb(173, 167, 167);
+}
+    p {
+        margin: 20px;
+        color: white;
+}
+    .imagem-segunda {
+        transform: rotate(-90deg);
+        margin-right: 200px;
+        
+}
+    .texto-segunda-foto {
+       color: white;
+}
+    .container-imagem-texto {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+  }
