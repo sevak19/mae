@@ -40,4 +40,9 @@ html {
         height: auto;
         display: block;
       }
+      .imagem-segunda {
+        transform: rotate(-90deg);
+        margin-right: 100px;
+        width: 240px;
   }
+}
